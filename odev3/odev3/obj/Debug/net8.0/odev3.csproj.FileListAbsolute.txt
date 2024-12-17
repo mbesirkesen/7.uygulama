@@ -1,0 +1,14 @@
+C:\Users\Muhammed\source\repos\odev3\odev3\bin\Debug\net8.0\odev3.exe
+C:\Users\Muhammed\source\repos\odev3\odev3\bin\Debug\net8.0\odev3.deps.json
+C:\Users\Muhammed\source\repos\odev3\odev3\bin\Debug\net8.0\odev3.runtimeconfig.json
+C:\Users\Muhammed\source\repos\odev3\odev3\bin\Debug\net8.0\odev3.dll
+C:\Users\Muhammed\source\repos\odev3\odev3\bin\Debug\net8.0\odev3.pdb
+C:\Users\Muhammed\source\repos\odev3\odev3\obj\Debug\net8.0\odev3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammed\source\repos\odev3\odev3\obj\Debug\net8.0\odev3.AssemblyInfoInputs.cache
+C:\Users\Muhammed\source\repos\odev3\odev3\obj\Debug\net8.0\odev3.AssemblyInfo.cs
+C:\Users\Muhammed\source\repos\odev3\odev3\obj\Debug\net8.0\odev3.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed\source\repos\odev3\odev3\obj\Debug\net8.0\odev3.dll
+C:\Users\Muhammed\source\repos\odev3\odev3\obj\Debug\net8.0\refint\odev3.dll
+C:\Users\Muhammed\source\repos\odev3\odev3\obj\Debug\net8.0\odev3.pdb
+C:\Users\Muhammed\source\repos\odev3\odev3\obj\Debug\net8.0\odev3.genruntimeconfig.cache
+C:\Users\Muhammed\source\repos\odev3\odev3\obj\Debug\net8.0\ref\odev3.dll
